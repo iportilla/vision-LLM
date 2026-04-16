@@ -1,0 +1,20 @@
+# OpenAI Image Studio — Python dependencies
+# Install: pip install -r requirements.txt
+
+# OpenAI API client
+openai>=1.75.0
+
+# Streamlit web app
+streamlit>=1.45.0
+
+# Image processing (mask creation, display)
+Pillow>=11.2.1
+
+# Load .env file
+python-dotenv>=1.1.0
+
+# Download images from URL responses
+requests>=2.32.3
+
+# Jupyter notebook (optional — only needed to run the .ipynb)
+jupyter>=1.1.1
